@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\TodoProject\\TodoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|d:\\learn\\todoproject\\todoapi\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|d:\\learn\\todoproject\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|d:\\learn\\todoproject\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|d:\\learn\\todoproject\\todoapi\\todoapi\\migrations\\20251104192914_makedueatnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\migrations\\20251104192914_makedueatnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|d:\\learn\\todoproject\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|d:\\learn\\todoproject\\todoapi\\todoapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|d:\\learn\\todoproject\\todoapi\\todoapi\\migrations\\20251102143025_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\migrations\\20251102143025_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|d:\\learn\\todoproject\\todoapi\\todoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25D330D-52D8-41B7-8264-73564B455934}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 190,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251104192914_MakeDueAtNullable.cs",
+              "DocumentMoniker": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Migrations\\20251104192914_MakeDueAtNullable.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Migrations\\20251104192914_MakeDueAtNullable.cs",
+              "ToolTip": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Migrations\\20251104192914_MakeDueAtNullable.cs",
+              "RelativeToolTip": "TodoAPI\\Migrations\\20251104192914_MakeDueAtNullable.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:29:31.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251102143025_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Migrations\\20251102143025_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Migrations\\20251102143025_InitialCreate.cs",
+              "ToolTip": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Migrations\\20251102143025_InitialCreate.cs",
+              "RelativeToolTip": "TodoAPI\\Migrations\\20251102143025_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:30:52.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TodoAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:30:37.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:46:16.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TodoAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:37:10.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoAPI\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:33:26.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Program.cs",
+              "ToolTip": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\Program.cs",
+              "RelativeToolTip": "TodoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:32:46.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoAPI.csproj",
+              "DocumentMoniker": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\TodoAPI.csproj",
+              "RelativeDocumentMoniker": "TodoAPI\\TodoAPI.csproj",
+              "ToolTip": "D:\\Learn\\TodoProject\\TodoAPI\\TodoAPI\\TodoAPI.csproj",
+              "RelativeToolTip": "TodoAPI\\TodoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T13:29:16.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

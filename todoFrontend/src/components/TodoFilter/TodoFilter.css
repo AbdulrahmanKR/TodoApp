@@ -1,0 +1,6 @@
+.todoFilter {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 15px 0;
+}

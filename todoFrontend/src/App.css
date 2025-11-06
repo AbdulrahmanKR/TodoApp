@@ -1,0 +1,23 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+input,
+button {
+  border-radius: 5px;
+}
+
+input {
+  border: 1px solid #4a6fa4;
+  padding: 10px;
+  font-size: 17px;
+}
+
+input[type="datetime-local"] {
+  font-size: 16px;
+}
+
+input:disabled {
+  cursor: wait;
+}

@@ -1,0 +1,16 @@
+# React frontend
+todofrontend/node_modules
+todofrontend/build
+
+# ASP.NET backend
+TodoAPI/TodoAPI/bin/
+TodoAPI/TodoAPI/obj/
+TodoAPI/TodoAPI/*.user
+TodoAPI/TodoAPI/*.suo
+TodoAPI/TodoAPI/*.db
+TodoAPI/TodoAPI/.vs
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log

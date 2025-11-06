@@ -1,0 +1,36 @@
+.button {
+  border: unset;
+  outline: unset;
+  cursor: pointer;
+  font-size: 17px;
+  background-color: transparent;
+  transition: all 0.2s ease;
+}
+
+.primary {
+  padding: 10px 20px;
+  border: 1px solid transparent;
+  color: #fff;
+  background-color: #4a6fa4;
+}
+
+.secondary {
+  border: 1px solid #4a6fa4;
+  padding: 10px 20px;
+  color: #4a6fa4;
+  background-color: transparent;
+}
+
+.primary:hover {
+  background-color: #26436b;
+}
+
+.secondary:hover {
+  background-color: #4a6fa4;
+  color: #fff;
+}
+
+button:disabled {
+  cursor: wait;
+  opacity: 0.6;
+}

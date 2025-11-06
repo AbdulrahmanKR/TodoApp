@@ -1,0 +1,23 @@
+.todoForm {
+  background-color: #f8f7f7;
+  padding: 20px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+}
+.todoForm > div {
+  display: flex;
+  flex-direction: column;
+  min-height: 70px;
+}
+
+.todoForm button {
+  align-self: center;
+  margin-top: 20px;
+}
+
+.todoForm .errorMessage {
+  color: red;
+  font-size: 13px;
+}
