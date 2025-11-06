@@ -43,7 +43,7 @@ dotnet run --project TodoAPI.csproj
 1. Navigate to the frontend folder:
 
 ```bash
-cd ../..   # Go back to root folder
+cd ../..
 cd todoFrontend
 ```
 
@@ -69,7 +69,7 @@ Navigate to `frontendTodo/src/api/axios.ts` update the base URL to match your ba
 
 For Example
 
-```bash
+```
 const api = axios.create({
   baseURL: "https://localhost:7253/api",
   headers: {
@@ -80,7 +80,7 @@ const api = axios.create({
 
 Also, open `TodoAPI\TodoAPI\Program.cs` and verify that the frontend URL is correctly configured
 
-```bash
+```
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("ReactApp",
