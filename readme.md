@@ -19,7 +19,7 @@ cd TodoAPI
 dotnet restore
 ```
 
-2. Install EF Core CLI tools (first time only)
+2. Install EF Core CLI tools (if not already installed)
 
 ```bash
 dotnet tool install --global dotnet-ef
